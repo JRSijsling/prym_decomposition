@@ -11,7 +11,7 @@ gE := 4;
 // Bound on size of monodromy group
 GBound := Infinity();
 // Only study indecomposable maps?
-Indec := true;
+Indec := false;
 // Print full genera and rank sequences?
 GenRank := true;
 

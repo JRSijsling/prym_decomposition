@@ -14,7 +14,7 @@ GBound := 24;
 // Take ambient isomorphism when finding covers?
 AmbIso := false;
 // Only study indecomposable maps?
-Indec := true;
+Indec := false;
 // Only find genera of intermediate lattice (cheaper)?
 OnlyGenera := true;
 // Print full genera and rank sequences?
